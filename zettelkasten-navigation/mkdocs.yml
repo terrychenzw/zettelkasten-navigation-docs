@@ -16,7 +16,12 @@ theme:
   favicon: assets/obsidian.png
   custom_dir: overrides
 nav:
-  - Overview: 'index.md'
-  - Metadata: 'index.md'
+  - 基本介绍: 'index.md'
+  - 插件设置: 'index.md'
+    - 主笔记: 'index.md'
+    - 检索按钮: 'index.md'
+    - 分支视图: 'index.md'
+    - 局部关系视图: 'index.md'
+    - 实验性功能: 'index.md'
 plugins:
   - search
