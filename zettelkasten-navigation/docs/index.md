@@ -1,17 +1,3 @@
-# Welcome to MkDocs
+# Zettelkasten Navigation
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
-
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+Zettelkasten Navigation(卡片盒导航)是一个[**Obsidian**](https://obsidian.md/)的第三方插件，旨在为在Obsidian中使用特定笔记编号、链接和关键词索引来实践卢曼卡片笔记法的用户提供一个实用的图谱功能，将笔记之间的关系具象化，使人能够更加直观地发现不同笔记之间的联系。
